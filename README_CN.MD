@@ -1,4 +1,4 @@
-#  ChatGirl 一个基于 TensorFlow Seq2Seq 模型的聊天机器人
+#  ChatGirl 一个基于 TensorFlow Seq2Seq 模型的聊天机器人[中文文档]
 
 ## 简介
 简单地说就是该有的都有了，但是总体跑起来效果还不好。
@@ -68,3 +68,21 @@ FaceRank - Rank Face by CNN Model based on TensorFlow (add keras version). FaceR
 ChatGirl is an AI ChatBot based on TensorFlow Seq2Seq Model.ChatGirl 一个基于 TensorFlow Seq2Seq 模型的聊天机器人。（包含预处理过的 twitter 英文数据集，训练，运行，工具代码，可以运行但是效果有待提高。）
 
 [https://github.com/fendouai/ChatGirl](https://github.com/fendouai/ChatGirl)
+
+
+## 学习流程
+如果看到这里有很多不懂的话，建议：
+*  Hello World
+https://zhuanlan.zhihu.com/p/27963600
+*  基本概念
+https://zhuanlan.zhihu.com/p/27986689
+*  卷积神经网络
+https://zhuanlan.zhihu.com/p/28161292
+*  训练好模型参数的保存和恢复代码
+https://zhuanlan.zhihu.com/p/27912379
+* TensorFlowNews 专栏
+https://zhuanlan.zhihu.com/TensorFlownews
+*  TensorFlowNews 博客
+http://www.tensorflownews.com/
+
+欢迎关注我的博客，因为我也还在学习中，现有的教程经常比较大，涉及到的只是比较多，我会经常拆分出小的知识点，我的博客也会把这些小的知识点记录下来。
