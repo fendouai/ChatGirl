@@ -1,3 +1,6 @@
+中文文档：
+https://github.com/fendouai/ChatGirl/blob/master/README_CN.MD
+
 ## Introduction
 
 [Under developing,it is not working well yet.But you can just train,and run it.]
